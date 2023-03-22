@@ -97,6 +97,10 @@ Build Product-EDC together with its Container Images
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## All-In-One Deployment
+
+The learn about how to use the All-In-One Deployment is found in the [INSTALL section](./INSTALL.md)
+
 ## License
 
 Distributed under the Apache 2.0 License. See [LICENSE](https://github.com/catenax-ng/product-edc/blob/main/LICENSE) for more information.
